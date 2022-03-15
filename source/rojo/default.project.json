@@ -1,0 +1,13 @@
+{
+  "name": "ZoneManager",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": {
+        "$path": "source/server"
+      }
+    }
+  }
+}
